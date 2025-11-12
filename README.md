@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+Hi, I’m Basanta Poudel,  a recent Computer Engineering graduate from Aalto University and the University of Lisbon. I’m passionate about developing digital solutions in Java and .NET, and I’ve also worked in hospitality, so I bring strong teamwork and customer-focused skills. I’m now seeking an entry-level software or IT support role in Finland.
+
+- I'm currently working as a freelancer in the project called KotiKajo - https://app.kotikajo.fi/
+
+- My most recent projects which are public include FeedbackFlow, ByCycle, FocusFlip
+
+I have engaged in more projects which I can explain to you in through my portfolio.
+
+
 <!--
 **BasantaPoudel/BasantaPoudel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
