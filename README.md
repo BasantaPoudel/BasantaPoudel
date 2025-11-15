@@ -8,6 +8,7 @@ Hi, I’m Basanta Poudel,  a recent Computer Engineering graduate from Aalto Uni
 
 I have engaged in more projects which I can explain to you through my portfolio.
 
+- 🌱 I’m currently refreshing Java Springboot using both maven and gradle dependencies through IssueTracking project
 
 <!--
 **BasantaPoudel/BasantaPoudel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
