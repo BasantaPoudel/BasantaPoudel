@@ -6,7 +6,7 @@ Hi, I’m Basanta Poudel,  a recent Computer Engineering graduate from Aalto Uni
 
 - My most recent projects which are public include FeedbackFlow, ByCycle, FocusFlip
 
-I have engaged in more projects which I can explain to you through my portfolio.
+I have engaged in more projects which I can explain to you through my portfolio - https://basantapoudeldev.wixsite.com/portfolio.
 
 - 🌱 I’m currently refreshing Java Springboot using both maven and gradle dependencies through IssueTracking project
 
