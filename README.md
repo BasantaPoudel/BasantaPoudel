@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I’m Basanta Poudel,  a recent Computer Engineering graduate from Aalto University and the University of Lisbon. I’m passionate about developing digital solutions in Java and .NET, and I’ve also worked in hospitality, so I bring strong teamwork and customer-focused skills. I’m now seeking an entry-level software or IT support role in Finland.
+Hi, I’m Basanta Poudel,  a recent Computer Engineering graduate from Aalto University and the University of Lisbon. I’m passionate about developing digital solutions in Java and .NET, and I’ve also worked in hospitality, so I bring strong teamwork and customer-focused skills. I’m now seeking an entry/mid-level software or IT support role in Finland.
 
 - I'm currently working as a freelancer in the project called KotiKajo - https://app.kotikajo.fi/
 
